@@ -1,0 +1,180 @@
+[
+    {
+        "id": "Braga",
+        "latitude": 41.5453,
+        "longitude": -8.4265,
+        "station": true,
+        "traffic_level": "high",
+        "accessible_zones": [
+            "Barcelos",
+            "Amares",
+            "Vila Verde",
+            "Povoa de Lanhoso",
+            "Guimaraes",
+            "Vila Nova de Famalicao"
+        ]
+    },
+    {
+        "id": "Barcelos",
+        "latitude": 41.5388,
+        "longitude": -8.6151,
+        "station": true,
+        "traffic_level": "medium",
+        "accessible_zones": [
+            "Braga",
+            "Esposende",
+            "Vila Verde",
+            "Vila Nova de Famalicao"
+        ]
+    },
+    {
+        "id": "Vieira do Minho",
+        "latitude": 41.6333,
+        "longitude": -8.1333,
+        "station": false,
+        "traffic_level": "low",
+        "accessible_zones": [
+            "Terras de Bouro",
+            "Povoa de Lanhoso",
+            "Cabeceiras de Basto",
+            "Fafe",
+            "Amares"
+        ]
+    },
+    {
+        "id": "Amares",
+        "latitude": 41.6303,
+        "longitude": -8.3512,
+        "station": true,
+        "traffic_level": "low",
+        "accessible_zones": [
+            "Braga",
+            "Vila Verde",
+            "Povoa de Lanhoso",
+            "Terras de Bouro",
+            "Vieira do Minho"
+        ]
+    },
+    {
+        "id": "Terras de Bouro",
+        "latitude": 41.7326,
+        "longitude": -8.3084,
+        "station": false,
+        "traffic_level": "low",
+        "accessible_zones": [
+            "Vila Verde",
+            "Vieira do Minho",
+            "Amares"
+        ]
+    },
+    {
+        "id": "Povoa de Lanhoso",
+        "latitude": 41.5786,
+        "longitude": -8.2689,
+        "station": true,
+        "traffic_level": "medium",
+        "accessible_zones": [
+            "Braga",
+            "Amares",
+            "Vieira do Minho",
+            "Guimaraes",
+            "Fafe"
+        ]
+    },
+    {
+        "id": "Guimaraes",
+        "latitude": 41.4444,
+        "longitude": -8.2962,
+        "station": true,
+        "traffic_level": "high",
+        "accessible_zones": [
+            "Vila Nova de Famalicao",
+            "Povoa de Lanhoso",
+            "Fafe",
+            "Braga",
+            "Vizela"
+        ]
+    },
+    {
+        "id": "Vizela",
+        "latitude": 41.3859,
+        "longitude": -8.3087,
+        "station": false,
+        "traffic_level": "medium",
+        "accessible_zones": [
+            "Guimaraes"
+        ]
+    },
+    {
+        "id": "Vila Verde",
+        "latitude": 41.6505,
+        "longitude": -8.4373,
+        "station": false,
+        "traffic_level": "low",
+        "accessible_zones": [
+            "Braga",
+            "Barcelos",
+            "Amares",
+            "Terras de Bouro"
+        ]
+    },
+    {
+        "id": "Vila Nova de Famalicao",
+        "latitude": 41.4072,
+        "longitude": -8.5197,
+        "station": true,
+        "traffic_level": "high",
+        "accessible_zones": [
+            "Barcelos",
+            "Braga",
+            "Guimaraes"
+        ]
+    },
+    {
+        "id": "Fafe",
+        "latitude": 41.4548,
+        "longitude": -8.1728,
+        "station": true,
+        "traffic_level": "medium",
+        "accessible_zones": [
+            "Guimaraes",
+            "Cabeceiras de Basto",
+            "Celorico de Basto",
+            "Povoa de Lanhoso",
+            "Vieira do Minho"
+        ]
+    },
+    {
+        "id": "Esposende",
+        "latitude": 41.5353,
+        "longitude": -8.7804,
+        "station": false,
+        "traffic_level": "medium",
+        "accessible_zones": [
+            "Barcelos"
+        ]
+    },
+    {
+        "id": "Cabeceiras de Basto",
+        "latitude": 41.5123,
+        "longitude": -7.9931,
+        "station": false,
+        "traffic_level": "low",
+        "accessible_zones": [
+            "Fafe",
+            "Vieira do Minho",
+            "Celorico de Basto"
+        ]
+    },
+    {
+        "id": "Celorico de Basto",
+        "latitude": 41.3875,
+        "longitude": -8.0003,
+        "station": false,
+        "traffic_level": "low",
+        "accessible_zones": [
+            "Cabeceiras de Basto",
+            "Fafe"
+        ]
+    }
+]

@@ -1,0 +1,229 @@
+
+================================================================================
+                            LOG DA SIMULAÇÃO - ASTAR                            
+================================================================================
+Total táxis: 4 | Total pedidos: 10
+
+================================================================================
+                          PEDIDO P1 - 2025-01-10 07:06                          
+================================================================================
+Tipo: premium | Prefere verde: False
+Origem -> Destino: Fafe -> Vieira do Minho | Passageiros: 1
+Meteorologia no trajeto:
+  - 🌧️ Chuva: 3 arestas
+Táxi escolhido: T1 (eletrico)
+Tempo de resposta ao pedido: 40.7 min
+Bateria: 38.00 kWh -> 27.78 kWh (cap máx: 45.00 kWh)
+Autonomia: 200.00 km -> 146.23 km
+Km vazio (taxi->origem): 24.87 km
+Km com passageiro (origem->destino): 20.10 km
+Custo estimado da viagem: 10.22 €
+Tempo total estimado: 96.7 min | Livre às 08:43:03
+CO2 emitido nesta viagem: 0.00 kg
+
+================================================================================
+                          PEDIDO P2 - 2025-01-10 08:59                          
+================================================================================
+Tipo: normal | Prefere verde: False
+Origem -> Destino: Braga -> Vila Verde | Passageiros: 3
+Meteorologia no trajeto:
+  - 🌧️ Chuva: 1 arestas
+Táxi escolhido: T2 (diesel)
+Tempo de resposta ao pedido: 0.0 min
+Depósito: 38.80 L -> 37.48 L (cap máx: 40.00 L)
+Autonomia: 456.47 km -> 440.91 km
+Km vazio (taxi->origem): 0.00 km
+Km com passageiro (origem->destino): 11.72 km
+Custo estimado da viagem: 4.51 €
+Tempo total estimado: 18.7 min | Livre às 09:18:04
+CO2 emitido nesta viagem: 3.55 kg
+
+================================================================================
+                          PEDIDO P3 - 2025-01-10 09:41                          
+================================================================================
+Tipo: normal | Prefere verde: False
+Origem -> Destino: Guimaraes -> Povoa de Lanhoso | Passageiros: 1
+Meteorologia no trajeto:
+  - 🌧️ Chuva: 2 arestas
+  - 🌫️ Nevoeiro: 1 arestas
+Táxi escolhido: T3 (hibrido)
+Tempo de resposta ao pedido: 36.0 min
+Depósito: 40.90 L -> 37.77 L (cap máx: 43.00 L)
+Autonomia: 681.67 km -> 629.58 km
+Km vazio (taxi->origem): 27.34 km
+Km com passageiro (origem->destino): 15.08 km
+Custo estimado da viagem: 13.54 €
+Tempo total estimado: 56.8 min | Livre às 10:38:33
+CO2 emitido nesta viagem: 6.25 kg
+
+================================================================================
+                          PEDIDO P4 - 2025-01-10 11:59                          
+================================================================================
+Tipo: normal | Prefere verde: False
+Origem -> Destino: Vila Nova de Famalicao -> Barcelos | Passageiros: 2
+Meteorologia no trajeto:
+  - 🌫️ Nevoeiro: 2 arestas
+Táxi escolhido: T4 (eletrico)
+Tempo de resposta ao pedido: 28.1 min
+Bateria: 35.20 kWh -> 26.78 kWh (cap máx: 45.00 kWh)
+Autonomia: 176.00 km -> 133.88 km
+Km vazio (taxi->origem): 16.65 km
+Km com passageiro (origem->destino): 16.65 km
+Custo estimado da viagem: 8.42 €
+Tempo total estimado: 86.2 min | Livre às 13:25:49
+CO2 emitido nesta viagem: 0.00 kg
+
+================================================================================
+                          PEDIDO P5 - 2025-01-10 15:37                          
+================================================================================
+Tipo: normal | Prefere verde: True
+Origem -> Destino: Braga -> Barcelos | Passageiros: 1
+Meteorologia no trajeto:
+  - ⛈️ Tempestade: 2 arestas
+Táxi escolhido: T3 (hibrido)
+Tempo de resposta ao pedido: 20.6 min
+Depósito: 37.77 L -> 35.34 L (cap máx: 43.00 L)
+Autonomia: 629.58 km -> 589.00 km
+Km vazio (taxi->origem): 13.66 km
+Km com passageiro (origem->destino): 15.75 km
+Custo estimado da viagem: 10.55 €
+Tempo total estimado: 44.3 min | Livre às 16:21:43
+CO2 emitido nesta viagem: 4.87 kg
+CO2 baseline diesel (se fosse diesel): 5.98 kg
+CO2 poupado por ser 'verde': 1.11 kg
+
+================================================================================
+                          PEDIDO P6 - 2025-01-10 16:45                          
+================================================================================
+Tipo: normal | Prefere verde: False
+Origem -> Destino: Braga -> Amares | Passageiros: 3
+Meteorologia no trajeto:
+  - 🌧️ Chuva: 2 arestas
+Táxi escolhido: T2 (diesel)
+Tempo de resposta ao pedido: 17.0 min
+Depósito: 37.48 L -> 35.11 L (cap máx: 40.00 L)
+Autonomia: 440.91 km -> 413.06 km
+Km vazio (taxi->origem): 11.72 km
+Km com passageiro (origem->destino): 11.34 km
+Custo estimado da viagem: 8.07 €
+Tempo total estimado: 33.4 min | Livre às 17:18:28
+CO2 emitido nesta viagem: 6.34 kg
+
+================================================================================
+                          PEDIDO P7 - 2025-01-10 17:01                          
+================================================================================
+Tipo: premium | Prefere verde: False
+Origem -> Destino: Amares -> Vila Verde | Passageiros: 1
+Meteorologia no trajeto:
+  - 🌫️ Nevoeiro: 1 arestas
+  - 🌧️ Chuva: 1 arestas
+Táxi escolhido: T1 (eletrico)
+Tempo de resposta ao pedido: 30.6 min
+Bateria: 27.78 kWh -> 21.77 kWh (cap máx: 45.00 kWh)
+Autonomia: 146.23 km -> 114.58 km
+Km vazio (taxi->origem): 18.16 km
+Km com passageiro (origem->destino): 7.52 km
+Custo estimado da viagem: 6.01 €
+Tempo total estimado: 67.2 min | Livre às 18:08:59
+CO2 emitido nesta viagem: 0.00 kg
+
+================================================================================
+                          PEDIDO P8 - 2025-01-10 18:10                          
+================================================================================
+Tipo: normal | Prefere verde: True
+Origem -> Destino: Povoa de Lanhoso -> Vieira do Minho | Passageiros: 1
+Meteorologia no trajeto:
+  - 🌧️ Chuva: 2 arestas
+  - ☀️ Sol: 1 arestas
+Táxi escolhido: T1 (eletrico)
+Tempo de resposta ao pedido: 25.4 min
+Bateria: 21.77 kWh -> 15.47 kWh (cap máx: 45.00 kWh)
+Autonomia: 114.58 km -> 81.45 km
+Km vazio (taxi->origem): 16.46 km
+Km com passageiro (origem->destino): 12.83 km
+Custo estimado da viagem: 6.29 €
+Tempo total estimado: 69.2 min | Livre às 19:19:54
+CO2 emitido nesta viagem: 0.00 kg
+CO2 baseline diesel (se fosse diesel): 4.88 kg
+CO2 poupado por ser 'verde': 4.88 kg
+
+================================================================================
+                          PEDIDO P9 - 2025-01-10 18:43                          
+================================================================================
+Tipo: normal | Prefere verde: True
+Origem -> Destino: Braga -> Vila Nova de Famalicao | Passageiros: 1
+Meteorologia no trajeto:
+  - ☀️ Sol: 2 arestas
+Táxi escolhido: T3 (hibrido)
+Tempo de resposta ao pedido: 21.7 min
+Depósito: 35.34 L -> 32.84 L (cap máx: 43.00 L)
+Autonomia: 589.00 km -> 547.31 km
+Km vazio (taxi->origem): 15.75 km
+Km com passageiro (origem->destino): 17.20 km
+Custo estimado da viagem: 10.84 €
+Tempo total estimado: 45.5 min | Livre às 19:29:09
+CO2 emitido nesta viagem: 5.00 kg
+CO2 baseline diesel (se fosse diesel): 6.14 kg
+CO2 poupado por ser 'verde': 1.14 kg
+
+================================================================================
+                         PEDIDO P10 - 2025-01-10 20:24                          
+================================================================================
+Tipo: normal | Prefere verde: False
+Origem -> Destino: Povoa de Lanhoso -> Vieira do Minho | Passageiros: 1
+Meteorologia no trajeto:
+  - 🌧️ Chuva: 1 arestas
+  - ⛈️ Tempestade: 1 arestas
+Táxi escolhido: T2 (diesel)
+Tempo de resposta ao pedido: 11.3 min
+Depósito: 35.11 L -> 33.00 L (cap máx: 40.00 L)
+Autonomia: 413.06 km -> 388.27 km
+Km vazio (taxi->origem): 8.95 km
+Km com passageiro (origem->destino): 12.83 km
+Custo estimado da viagem: 7.19 €
+Tempo total estimado: 29.8 min | Livre às 20:54:02
+CO2 emitido nesta viagem: 5.65 kg
+
+================================================================================
+                             RESUMO FINAL POR TÁXI                              
+================================================================================
+T1 | tipo=eletrico
+  • Km com cliente: 40.45 km
+  • Km sem cliente: 59.49 km
+  • Km totais: 99.93 km
+  • Faturação do dia: 22.53 €
+  • CO2 emitido: 0.00 kg
+  • Abastecimentos/recargas: 0
+  • Tempo a andar: 3h53
+  • Tempo Gasto em Recargas/Abastecimentos: 0h00
+
+T2 | tipo=diesel
+  • Km com cliente: 35.89 km
+  • Km sem cliente: 20.67 km
+  • Km totais: 56.55 km
+  • Faturação do dia: 19.78 €
+  • CO2 emitido: 15.54 kg
+  • Abastecimentos/recargas: 0
+  • Tempo a andar: 1h21
+  • Tempo Gasto em Recargas/Abastecimentos: 0h00
+
+T3 | tipo=hibrido
+  • Km com cliente: 48.03 km
+  • Km sem cliente: 56.75 km
+  • Km totais: 104.78 km
+  • Faturação do dia: 34.93 €
+  • CO2 emitido: 16.12 kg
+  • Abastecimentos/recargas: 0
+  • Tempo a andar: 2h26
+  • Tempo Gasto em Recargas/Abastecimentos: 0h00
+
+T4 | tipo=eletrico
+  • Km com cliente: 16.65 km
+  • Km sem cliente: 16.65 km
+  • Km totais: 33.29 km
+  • Faturação do dia: 8.42 €
+  • CO2 emitido: 0.00 kg
+  • Abastecimentos/recargas: 0
+  • Tempo a andar: 1h26
+  • Tempo Gasto em Recargas/Abastecimentos: 0h00
+

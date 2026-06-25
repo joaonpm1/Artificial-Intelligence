@@ -1,0 +1,29 @@
+COMPARAÇÃO FINAL DE ALGORITMOS
+================================================================================
+
+Algoritmo: astar
+Pedidos: 10 | Atendidos: 10 | Falhados: 0
+Taxa sucesso: 100.0%
+Custo total (€): 85.66
+Tempo resposta médio (min): 23.1
+Nós expandidos médios: 4.3
+Km vazios total: 153.55
+Km com passageiros: 141.01
+CO2 total (kg): 31.66
+CO2 poupado (prefere_verde) (kg): 7.14
+
+--------------------------------------------------------------------------------
+
+Algoritmo: ucs
+Pedidos: 10 | Atendidos: 10 | Falhados: 0
+Taxa sucesso: 100.0%
+Custo total (€): 85.66
+Tempo resposta médio (min): 23.1
+Nós expandidos médios: 8.7
+Km vazios total: 153.55
+Km com passageiros: 141.01
+CO2 total (kg): 31.66
+CO2 poupado (prefere_verde) (kg): 7.14
+
+--------------------------------------------------------------------------------
+

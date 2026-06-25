@@ -1,0 +1,92 @@
+[
+  {
+    "id": "P1",
+    "origem": "Fafe",
+    "destino": "Vieira do Minho",
+    "n_passageiros": 1,
+    "prioridade": 1,
+    "hora_pedido": "2025-01-10 07:06:22",
+    "prefere_verde": false
+  },
+  {
+    "id": "P2",
+    "origem": "Braga",
+    "destino": "Vila Verde",
+    "n_passageiros": 3,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 08:59:24",
+    "prefere_verde": false
+  },
+  {
+    "id": "P3",
+    "origem": "Guimaraes",
+    "destino": "Povoa de Lanhoso",
+    "n_passageiros": 1,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 09:41:44",
+    "prefere_verde": false
+  },
+  {
+    "id": "P4",
+    "origem": "Vila Nova de Famalicao",
+    "destino": "Barcelos",
+    "n_passageiros": 2,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 11:59:40",
+    "prefere_verde": false
+  },
+  {
+    "id": "P5",
+    "origem": "Braga",
+    "destino": "Barcelos",
+    "n_passageiros": 1,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 15:37:27",
+    "prefere_verde": true
+  },
+  {
+    "id": "P6",
+    "origem": "Braga",
+    "destino": "Amares",
+    "n_passageiros": 3,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 16:45:04",
+    "prefere_verde": false
+  },
+  {
+    "id": "P7",
+    "origem": "Amares",
+    "destino": "Vila Verde",
+    "n_passageiros": 1,
+    "prioridade": 1,
+    "hora_pedido": "2025-01-10 17:01:47",
+    "prefere_verde": false
+  },
+  {
+    "id": "P8",
+    "origem": "Povoa de Lanhoso",
+    "destino": "Vieira do Minho",
+    "n_passageiros": 1,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 18:10:44",
+    "prefere_verde": true
+  },
+  {
+    "id": "P9",
+    "origem": "Braga",
+    "destino": "Vila Nova de Famalicao",
+    "n_passageiros": 1,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 18:43:41",
+    "prefere_verde": true
+  },
+  {
+    "id": "P10",
+    "origem": "Povoa de Lanhoso",
+    "destino": "Vieira do Minho",
+    "n_passageiros": 1,
+    "prioridade": 0,
+    "hora_pedido": "2025-01-10 20:24:17",
+    "prefere_verde": false
+  }
+]
